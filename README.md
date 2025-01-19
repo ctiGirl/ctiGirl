@@ -1,46 +1,18 @@
-## Sobre mim
 
-- 👋 Hi, I’m @ctiGirl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+<h1 align="center">Hi 👋, I'm ctiGirl</h1>
+<h3 align="center">I’m interested in Cyber Threat Intelligence, Security Researcher, soft skills improve</h3>
 
-## Minhas Skills
-
-**Aplicações e dados**
-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Python?style=flat&logo=%233776AB)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
+<h3 align="left">Connect with me on GitHub: ctiGirl</h3>
+<p align="left">
+</p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-**Utilidades**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctigirl&show_icons=true&locale=en&layout=compact" alt="ctigirl" /></p>
 
 
-<br/>
-GitHub: github.com/ctiGirl
-<br/>
-Patreon: patreon.com/ctiGirl
 
 <!---
 ctiGirl/ctiGirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
